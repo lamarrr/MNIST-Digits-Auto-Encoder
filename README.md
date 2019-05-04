@@ -1,2 +1,3 @@
-# MNIST-Digits-Auto-Encoder
-A basic example of auto encoders using MNIST dataset
+# Digits Auto Encoder
+Just a basic example of Auto Encoders on MNIST Dataset
+### TBD
